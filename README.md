@@ -24,5 +24,5 @@ Antes de executar o script, certifique-se de que os seguintes componentes esteja
    Clone este repositório ou baixe os arquivos manualmente para uma pasta de sua preferência:
    
    ```powershell
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/leonardobits/evolution-api-scripts
+   cd evolution-api-scripts
